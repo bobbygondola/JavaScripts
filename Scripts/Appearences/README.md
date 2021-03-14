@@ -10,3 +10,7 @@ java FileLetterCounter
 Enter file name: test_file.txt↵
 Enter character to count: 0↵
 The character 'e' appears in the file test_file.txt 17times.↵
+
+## Explanation
+javac FileLetterCounter.java - to compile
+java FileLetterCounter - to run
